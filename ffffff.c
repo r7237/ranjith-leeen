@@ -1,5 +1,5 @@
 #include<stdio.h>
- 
+ #include<conio.h>
 int main() {
    int a[30], i,  smallest;
    for (i = 0; i < 10; i++)
